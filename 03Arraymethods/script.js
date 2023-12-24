@@ -1,37 +1,37 @@
-const users = [
-     {
-    id : 4,
-    age : 20,
-    surname : 'Malikli',
-    username : 'Nazira' ,
-    address : {
-    street : 'Nizami',
-    city : 'Baku',
-    country : 'Azerbaijan',
-}},
-     {
-    id : 6,
-    age : 28,
-    surname : 'Malikli',
-    username : 'Nazira' ,
-    address : {
-    street : '1 may',
-    city : 'Baku',
-    country : 'Azerbaijan',
-}},
-     {
-    id : 7,
-    age : 18,
-    surname : 'Malikli',
-    username : 'Nazira' ,
-    address : {
-    street : 'Mircelal',
-    city : 'Baku',
-    country : 'Azerbaijan',
-}},
+// const users = [
+//      {
+//     id : 4,
+//     age : 20,
+//     surname : 'Malikli',
+//     username : 'Nazira' ,
+//     address : {
+//     street : 'Nizami',
+//     city : 'Baku',
+//     country : 'Azerbaijan',
+// }},
+//      {
+//     id : 6,
+//     age : 28,
+//     surname : 'Malikli',
+//     username : 'Nazira' ,
+//     address : {
+//     street : '1 may',
+//     city : 'Baku',
+//     country : 'Azerbaijan',
+// }},
+//      {
+//     id : 7,
+//     age : 18,
+//     surname : 'Malikli',
+//     username : 'Nazira' ,
+//     address : {
+//     street : 'Mircelal',
+//     city : 'Baku',
+//     country : 'Azerbaijan',
+// }},
 
 
-]
+// ]
 
 
 // let result = users.reduce((acc,curr,index) => acc + index, 0)
@@ -54,7 +54,7 @@ const users = [
 
 
 
-  const students = [ 'Yusif','Reshad','Nihad','Nazira']
+  // const students = [ 'Yusif','Reshad','Nihad','Nazira']
 
 //   console.log(students.filter(item => item === 'Yusif'));
 
@@ -88,7 +88,9 @@ const users = [
 // const result = user.split(',')
 // console.log(result);
 
-const studentsArr = ['Yusif','Reshad','Nihad','Nezire','Metn','Heyder','Rafig','Eli','Nizam','Xeyale','Abbas','Anar','Ulfet']
+// const studentsArr = ['Yusif','Reshad','Nihad','Nezire','Metn','Heyder','Rafig','Eli','Nizam','Xeyale','Abbas','Anar','Ulfet']
 
-const result = studentsArr.map(item=>`name: ${item}`).join(' ')
-console.log('array-', studentsArr);
+// const result = studentsArr.map(item=>`name: ${item}`).join(' ')
+// console.log('array-', studentsArr);
+
+
